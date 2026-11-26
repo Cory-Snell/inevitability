@@ -1,0 +1,32 @@
+{
+  "identifier": "wave-and-return-inevitability-companions-2",
+  "title": "Wave and Return: The Bent Fist, the Figure-Eight, and the Science of a Restrained Hand",
+  "creator": "Cory Snell",
+  "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "mediatype": "texts",
+  "language": "eng",
+  "collection": "opensource",
+  "date": "2026-11-01",
+  "publisher": "Free edition",
+  "rights": "CC BY-NC-SA 4.0. Free to share.",
+  "description": "A free, evidence-based companion to the System of Inevitability, Book 2: the bent fist, whole-body wave striking, figure-eight motion, breath, and the science and ethics of a restrained hand. By Cory Snell, creator of the System of Inevitability. Book 2 of the series Companions to the System of Inevitability.\n\n<p>Also in this series, <em>Companions to the System of Inevitability</em>:</p>\n<ul>\n<li><a href=\"https://archive.org/details/walking-and-turning-inevitability-companions-1\">Book 1: Walking and Turning</a></li>\n<li><a href=\"https://archive.org/details/shape-and-choice-inevitability-companions-3\">Book 3: Shape and Choice</a></li>\n<li><a href=\"https://archive.org/details/lens-and-lattice-inevitability-companions-4\">Book 4: Lens and Lattice</a></li>\n<li><a href=\"https://archive.org/details/nucleus-and-orbit-inevitability-companions-5\">Book 5: Nucleus and Orbit</a></li>\n</ul>",
+  "subject": [
+    "martial arts",
+    "biomechanics",
+    "striking",
+    "motor learning",
+    "breathing",
+    "ethics",
+    "de-escalation",
+    "System of Inevitability",
+    "Companions to the System of Inevitability",
+    "free book"
+  ],
+  "series": "Companions to the System of Inevitability",
+  "volume": "2",
+  "files": [
+    "../books/wave-and-return/Wave-and-Return.pdf",
+    "../books/wave-and-return/Wave-and-Return.epub",
+    "../books/wave-and-return/cover.png"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "arc-and-iron-inevitability-companions-6",
+  "title": "Arc and Iron: Juggling, Loaded Spheres, the Spinning Ring, and the Martial Science of Continuous Motion",
+  "creator": "Cory Snell",
+  "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "mediatype": "texts",
+  "language": "eng",
+  "collection": "opensource",
+  "date": "2026-11-26",
+  "publisher": "Free edition",
+  "rights": "CC BY-NC-SA 4.0. Free to share.",
+  "description": "A free, evidence-based companion to the System of Inevitability, Book 6: juggling, iron ball juggling in the Cascade, Mills Mess, and Box, and the spinning ring on the bar with its isometric push and pull, examined through neuroscience, emotion, biomechanics, tendon and bone physiology, four thousand years of documented history, and martial integration. Every claim graded A to D. By Cory Snell, creator of the System of Inevitability. Book 6 of the series Companions to the System of Inevitability.\n\n<p>Also in this series, <em>Companions to the System of Inevitability</em>:</p>\n<ul>\n<li><a href=\"https://archive.org/details/walking-and-turning-inevitability-companions-1\">Book 1: Walking and Turning</a></li>\n<li><a href=\"https://archive.org/details/wave-and-return-inevitability-companions-2\">Book 2: Wave and Return</a></li>\n<li><a href=\"https://archive.org/details/shape-and-choice-inevitability-companions-3\">Book 3: Shape and Choice</a></li>\n<li><a href=\"https://archive.org/details/lens-and-lattice-inevitability-companions-4\">Book 4: Lens and Lattice</a></li>\n<li><a href=\"https://archive.org/details/nucleus-and-orbit-inevitability-companions-5\">Book 5: Nucleus and Orbit</a></li>\n</ul>",
+  "subject": [
+    "martial arts",
+    "juggling",
+    "iron ball juggling",
+    "siteswap",
+    "neuroplasticity",
+    "motor learning",
+    "tendon adaptation",
+    "isometric training",
+    "history of juggling",
+    "ecological dynamics",
+    "System of Inevitability",
+    "Companions to the System of Inevitability",
+    "Inevitability Companions",
+    "free book"
+  ],
+  "series": "Companions to the System of Inevitability",
+  "volume": "6",
+  "files": [
+    "../books/arc-and-iron/Arc-and-Iron.pdf",
+    "../books/arc-and-iron/Arc-and-Iron.epub",
+    "../books/arc-and-iron/cover.png"
+  ]
+}

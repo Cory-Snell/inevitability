@@ -161,6 +161,7 @@ h1 {
 .book-3 { --accent: #a9c2a4; --btn-ink: #15141b; }
 .book-4 { --accent: #a9b5ea; --btn-ink: #11132a; }
 .book-5 { --accent: #b08ae0; --btn-ink: #09090f; }
+.book-6 { --accent: #c98a4b; --btn-ink: #1c2127; }
 
 .cover-link {
   display: block;
